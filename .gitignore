@@ -1,0 +1,8 @@
+*~
+node_modules/
+dijelovi/
+build/
+\#*
+.\#*
+*.log
+*.env
